@@ -112,7 +112,7 @@
       
    - As per Training Approaches section I’ve trained six SVM models with six different combinations of features and the test accuracies were as follow:
    
-      1- SVM and LUV:
+      - 1- SVM and LUV:
          - The Parameters here are as follows:
             - Color space = LUV
             - Hog Orientations = 9
@@ -123,7 +123,7 @@
             - Window Scale = 1, 1.5
             - Feature vector length: 6156 12.52 Seconds to train SVC... Test Accuracy of SVC = 0.9851
       
-      2- SVM and RGB:
+      - 2- SVM and RGB:
          - The Parameters here are as follows:
             - Color Space = RGB
             - Hog Orientations = 9
@@ -133,7 +133,7 @@
             - Histogram Bins = 32
             - Window Scale = 1, 1.5 Feature vector length: 6156 14.24 Seconds to train SVC... Test Accuracy of SVC = 0.9761
          
-      3- SVM and HLS:
+      - 3- SVM and HLS:
          - The Parameters here are as follows:
             - Color Space = HLS
             - Hog Orientations = 9
@@ -143,7 +143,7 @@
             - Histogram Bins = 32
             - Window Scale = 1, 1.5 Feature vector length: 6156 12.46 Seconds to train SVC... Test Accuracy of SVC = 0.991
          
-      4- SVM and HSV:
+      - 4- SVM and HSV:
          - The Parameters here are as follows:
             - Color Space = HSV
             - Hog Orientations = 9
@@ -154,7 +154,7 @@
             - Window Scale = 1, 1.5
             - Feature vector length: 6156 12.0 Seconds to train SVC... Test Accuracy of SVC = 0.9879
          
-      5- SVM and YUV:
+      - 5- SVM and YUV:
          - The Parameters here are as follows:
             - Color Space = YUV
             - Hog Orientations = 9
@@ -164,7 +164,7 @@
             - Histogram Bins = 32
             - Window Scale = 1, 1.5 Feature vector length: 6156 11.72 Seconds to train SVC... Test Accuracy of SVC = 0.9882
          
-      6- SVM and YCrCb:
+      - 6- SVM and YCrCb:
          - The Parameters here are as follows:
             - Color Space = YCrCb
             - Hog Orientations = 12
