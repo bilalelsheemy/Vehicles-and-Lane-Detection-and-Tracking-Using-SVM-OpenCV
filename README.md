@@ -121,7 +121,7 @@
             - Pixels Per Block = 8
             - Histogram Bins = 32
             - Window Scale = 1, 1.5
-         - Feature vector length: 6156 12.52 Seconds to train SVC... Test Accuracy of SVC = 0.9851
+            - Feature vector length: 6156 12.52 Seconds to train SVC... Test Accuracy of SVC = 0.9851
       
       2- SVM and RGB:
          - The Parameters here are as follows:
@@ -131,7 +131,7 @@
             - Cells Per Block = 2
             - Pixels Per Block = 8
             - Histogram Bins = 32
-         - Window Scale = 1, 1.5 Feature vector length: 6156 14.24 Seconds to train SVC... Test Accuracy of SVC = 0.9761
+            - Window Scale = 1, 1.5 Feature vector length: 6156 14.24 Seconds to train SVC... Test Accuracy of SVC = 0.9761
          
       3- SVM and HLS:
          - The Parameters here are as follows:
@@ -141,7 +141,7 @@
             - Cells Per Block = 2
             - Pixels Per Block = 8
             - Histogram Bins = 32
-         - Window Scale = 1, 1.5 Feature vector length: 6156 12.46 Seconds to train SVC... Test Accuracy of SVC = 0.991
+            - Window Scale = 1, 1.5 Feature vector length: 6156 12.46 Seconds to train SVC... Test Accuracy of SVC = 0.991
          
       4- SVM and HSV:
          - The Parameters here are as follows:
@@ -152,7 +152,7 @@
             - Pixels Per Block = 8
             - Histogram Bins = 32
             - Window Scale = 1, 1.5
-         - Feature vector length: 6156 12.0 Seconds to train SVC... Test Accuracy of SVC = 0.9879
+            - Feature vector length: 6156 12.0 Seconds to train SVC... Test Accuracy of SVC = 0.9879
          
       5- SVM and YUV:
          - The Parameters here are as follows:
@@ -162,7 +162,7 @@
             - Cells Per Block = 2
             - Pixels Per Block = 8
             - Histogram Bins = 32
-         - Window Scale = 1, 1.5 Feature vector length: 6156 11.72 Seconds to train SVC... Test Accuracy of SVC = 0.9882
+            - Window Scale = 1, 1.5 Feature vector length: 6156 11.72 Seconds to train SVC... Test Accuracy of SVC = 0.9882
          
       6- SVM and YCrCb:
          - The Parameters here are as follows:
@@ -172,7 +172,7 @@
             - Cells Per Block = 2
             - Pixels Per Block = 8
             - Histogram Bins = 32
-         - Window Scale = 1, 1.5 Feature vector length: 10224 4.78 Seconds to train SVC... Test Accuracy of SVC = 0.9907
+            - Window Scale = 1, 1.5 Feature vector length: 10224 4.78 Seconds to train SVC... Test Accuracy of SVC = 0.9907
          
 ---
          
